@@ -4,7 +4,8 @@ Esta es la repo de nuestro proyecto
 
 ### **Resumen versión 1**
 
-La primera versión del proyecto reúne los códigos iniciales utilizados para familiarizarse con su funcionamiento. La introducción se divide en tres partes:  
+La primera versión del proyecto reúne los códigos iniciales utilizados para familiarizarse con su funcionamiento.
+La introducción se divide en tres partes:  
 - **Clases:** Amelia Pop  
 - **Ficheros:** Xian Suárez Duro  
 - **Funciones:** Álvaro Fernández Camarzana  
